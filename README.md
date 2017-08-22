@@ -8,6 +8,9 @@ Built a one-page app that allows a user to search any Youtube video based
 on keywords typed in a search bar. User can then select a video and view it.
 The app is 100% React-based.
 
+![alt text](https://github.com/meda123/learnReactRedux/blob/master/Images/YoutubeApp.png)
+
+
 ####
 
 
